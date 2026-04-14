@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\bin\Debug\net9.0\EstrururasRepetidas.exe
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\bin\Debug\net9.0\EstrururasRepetidas.deps.json
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\bin\Debug\net9.0\EstrururasRepetidas.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\bin\Debug\net9.0\EstrururasRepetidas.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\bin\Debug\net9.0\EstrururasRepetidas.pdb
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\EstrururasRepetidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\EstrururasRepetidas.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\EstrururasRepetidas.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\EstrururasRepetidas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\EstrururasRepetidas.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\refint\EstrururasRepetidas.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\EstrururasRepetidas.pdb
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\EstrururasRepetidas.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstrururasRepetidas\EstrururasRepetidas\obj\Debug\net9.0\ref\EstrururasRepetidas.dll

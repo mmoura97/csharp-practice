@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\bin\Debug\net8.0\PrimeiroExPratico.exe
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\bin\Debug\net8.0\PrimeiroExPratico.deps.json
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\bin\Debug\net8.0\PrimeiroExPratico.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\bin\Debug\net8.0\PrimeiroExPratico.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\bin\Debug\net8.0\PrimeiroExPratico.pdb
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\PrimeiroExPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\PrimeiroExPratico.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\PrimeiroExPratico.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\PrimeiroExPratico.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\PrimeiroExPratico.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\refint\PrimeiroExPratico.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\PrimeiroExPratico.pdb
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\PrimeiroExPratico.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\PrimeiroExPratico\PrimeiroExPratico\obj\Debug\net8.0\ref\PrimeiroExPratico.dll

@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net9.0\EstruturasCondicionais.exe
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net9.0\EstruturasCondicionais.deps.json
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net9.0\EstruturasCondicionais.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net9.0\EstruturasCondicionais.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\net9.0\EstruturasCondicionais.pdb
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\EstruturasCondicionais.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\refint\EstruturasCondicionais.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\EstruturasCondicionais.pdb
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\net9.0\ref\EstruturasCondicionais.dll

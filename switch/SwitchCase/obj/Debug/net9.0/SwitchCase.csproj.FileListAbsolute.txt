@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.exe
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.deps.json
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.pdb
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\refint\SwitchCase.dll
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.pdb
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net9.0\ref\SwitchCase.dll
